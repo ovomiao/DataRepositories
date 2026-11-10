@@ -1,0 +1,30 @@
+# Bopomofo
+Bopomofo:3100-312F
+BopomofoExt:31A0-31BF
+
+# CJK Unified Ideographs
+CJK:4E00-9FFF
+A:3400-4DBF
+B:20000-2A6DF
+C:2A700-2B73F
+D:2B740-2B81D
+E:2B820-2CEAD
+F:2CEB0-2EBE0
+G:30000-3134A
+H:31350-323AF
+I:2EBF0-2EE5D
+J:323B0-33479
+
+# CJK Compatibility Ideographs
+CJKCompatibility:F900-FAFF
+CJKCompatibilityExt:2F800-2FA1F
+
+#Radicals(Radicals = CJK Radicals Supplement)
+Radicals:2E80-2EFF
+Kangxi:2F00-2FDF
+
+# CJK Strokes
+Strokes:31C0-31EF
+
+# Ideographic Description Characters
+IDC:2FF0-2FFF
